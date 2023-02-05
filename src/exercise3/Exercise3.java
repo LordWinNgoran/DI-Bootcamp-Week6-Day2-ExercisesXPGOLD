@@ -1,3 +1,10 @@
+//Exercise 3 : Basic Salary
+/*
+ * @author: N'goran Kouadio Jean Cyrille
+ * @description: 
+ * Date : 01/01/2023
+ */
+
 package exercise3;
 import java.util.Scanner;
 public class Exercise3 {
